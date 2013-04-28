@@ -1,0 +1,4 @@
+.zshrc
+======
+
+Setting on zsh
